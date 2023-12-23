@@ -11,6 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you need to upgrade to Next.js 14?](https://bluesockets.com/next/do-you-need-to-upgrade-to-next-js-14/)
+- [The Easiest Guide on Migrating to React Query v5](https://bluesockets.com/react/the-easiest-guide-on-migrating-to-react-query-v5/)
+- [Migrating JavaScript Projects to TypeScript](https://bluesockets.com/typescript/migrating-javascript-projects-to-typescript/)
+- [When to Use Interface vs. Class in Typescript](https://bluesockets.com/typescript/when-to-use-interface-vs-class-in-typescript/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
