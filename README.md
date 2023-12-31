@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [React.js Alternatives &lpar;2024&rpar;](https://bluesockets.com/react/react-js-alternatives-2024/)
 - [React.js Unit Testing &lpar;Vitest, Husky, lint-staged, ESLint, Prettier&rpar;](https://bluesockets.com/react/react-js-unit-testing-vitest-husky-lint-staged-eslint-prettier/)
 - [Do you need to upgrade to Next.js 14?](https://bluesockets.com/next/do-you-need-to-upgrade-to-next-js-14/)
 - [The Easiest Guide on Migrating to React Query v5](https://bluesockets.com/react/the-easiest-guide-on-migrating-to-react-query-v5/)
-- [Migrating JavaScript Projects to TypeScript](https://bluesockets.com/typescript/migrating-javascript-projects-to-typescript/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
