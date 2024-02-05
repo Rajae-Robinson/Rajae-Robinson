@@ -15,8 +15,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Pagination in React.js – The Complete Guide &lpar;2024&rpar;](https://bluesockets.com/react/how-to-approach-pagination-in-react-js/)
 - [React.js Alternatives &lpar;2024&rpar;](https://bluesockets.com/react/react-js-alternatives-2024/)
-- [React.js Unit Testing &lpar;Vitest, Husky, lint-staged, ESLint, Prettier&rpar;](https://bluesockets.com/react/react-js-unit-testing-vitest-husky-lint-staged-eslint-prettier/)
-- [Do you need to upgrade to Next.js 14?](https://bluesockets.com/next/do-you-need-to-upgrade-to-next-js-14/)
+- [React.js Vite Unit Testing &lpar;Vitest, Husky, lint-staged, ESLint, Prettier&rpar;](https://bluesockets.com/react/react-js-unit-testing-vitest-husky-lint-staged-eslint-prettier/)
+- [Upgrading from Next.js 13 to Next.js 14](https://bluesockets.com/next/do-you-need-to-upgrade-to-next-js-14/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
