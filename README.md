@@ -13,7 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Pagination in React.js – The Complete Guide &lpar;2024&rpar;](https://bluesockets.com/react/how-to-approach-pagination-in-react-js/)
+- [Pagination in React.js – The Complete Guide &lpar;2024&rpar;](https://bluesockets.com/react/pagination-in-react-js/)
 - [Best React.js Alternatives &lpar;2024&rpar;](https://bluesockets.com/react/react-js-alternatives-2024/)
 - [React.js Vite Unit Testing &lpar;Vitest, Husky, lint-staged, ESLint, Prettier&rpar;](https://bluesockets.com/react/react-js-unit-testing-vitest-husky-lint-staged-eslint-prettier/)
 - [Upgrading from Next.js 13 to Next.js 14](https://bluesockets.com/next/do-you-need-to-upgrade-to-next-js-14/)
