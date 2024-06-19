@@ -13,7 +13,7 @@ I build functional, secure, and beautiful web and mobile apps.
 <h3 align="left">Technical Skills:</h3>
 <p><strong>Languages</strong>: Javascript, Typescript, Java, C++, C#, Dart, Python</p>
 <p><strong>Technologies</strong>: React.js, Next.js, Flutter, Firebase, Express.js, MongoDB, MySQL, Postgres</p>
-<p><strong>Deployment</strong>: Docker, AWS, Azure, Netlify</p>
+<p><strong>CI/CD</strong>: Docker, AWS, Azure, Netlify, Git</p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
