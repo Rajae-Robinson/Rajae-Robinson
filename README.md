@@ -15,14 +15,6 @@ I build functional, secure, and beautiful web and mobile apps.
 <p><strong>Technologies</strong>: React.js, Next.js, Flutter, Firebase, Express.js, MongoDB, MySQL, Postgres</p>
 <p><strong>CI/CD</strong>: Docker, AWS, Azure, Netlify, Git</p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Deploying MERN Monorepo with Docker &amp; Render](https://bluesockets.com/react/deploying-mern-monorepo-docker-render/)
-- [React 19: Understanding the React Compiler](https://bluesockets.com/react/react-compiler-in-react19/)
-- [7 Best Reasons to Learn React in 2024](https://bluesockets.com/react/why-use-react/)
-- [Pagination in React.js – The Complete Guide &lpar;2024&rpar;](https://bluesockets.com/react/pagination-in-react-js/)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rajaerobinson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rajaerobinson" height="30" width="40" /></a>
