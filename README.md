@@ -8,8 +8,6 @@ I build functional, secure, and beautiful web and mobile apps.
 
 - 👨‍💻 My portfolio is available at [https://rajae-robinson.netlify.app/](https://rajae-robinson.netlify.app/)
 
-- 📝 I regularly write articles on [https://bluesockets.com](https://bluesockets.com)
-
 <h3 align="left">Technical Skills:</h3>
 <p><strong>Languages</strong>: Javascript, Typescript, Java, C++, C#, Dart, Python</p>
 <p><strong>Technologies</strong>: React.js, Next.js, Flutter, Firebase, Express.js, MongoDB, MySQL, Postgres</p>
